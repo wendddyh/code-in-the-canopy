@@ -12,7 +12,7 @@ const Navbar = () => {
         <ul className="flex flex-col gap-2 mt-2 mb-4 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
           <li
             className="flex items-center p-1 text-m gap-x-2 text-slate-600">
-            <a href="#" className="flex items-center">
+            <a className="flex items-center">
               Services
             </a>
           </li>
